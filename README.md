@@ -5,11 +5,17 @@ CLTMS is a web-based system (Arabic and English, mobile-friendly) that manages t
 - [x] Project Specification
 - [x] Feasibility Study
 - [x] System Request
-- [ ] Methodology
-- [ ] Time Estimation
-- [ ] Case Study
-- [ ] Pert Chart
-- [ ] Gantt Chart
+- [x] Methodology
+- [x] Time Estimation
+- [x] Case Study
+- [x] Pert Chart
+- [x] Gantt Chart
+- [x] 20 questions and their answers
+- [x] 10 interview questions 
+- [x] 10 web form question 
+- [x] Make a report
+- [x] Current State of The System
+- [x] System Goals
 
 # Members
 1- Yusuf Khalid Hassan Huessin Khalifa (يوسف خالد حسن حسين خليفه)
